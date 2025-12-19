@@ -1,4 +1,4 @@
 # StudentRepo
 This Repo for Practice.
 <br>
-Hello My Name Is Tushar Goyal.
+Hello My Name Is Tushar Kumar.
